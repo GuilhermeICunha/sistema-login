@@ -1,1 +1,3 @@
-# sistema-login
+# SISTEMA DE LOGIN COM SESSÃO EM PHP
+Guilherme Mascarello Cunha 
+RA: 26015309-2
